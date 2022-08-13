@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.vue": "html",
+        "spinlock.h": "c"
+    }
+}

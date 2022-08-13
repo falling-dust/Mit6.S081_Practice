@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.vue": "html",
+        "param.h": "c",
+        "defs.h": "c",
+        "memlayout.h": "c"
+    }
+}
